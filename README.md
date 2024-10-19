@@ -3,9 +3,27 @@
 #### Technical skills: Python, R, Power BI
 
 ### Education  
-Bachelor of Mathematics (Statistics)  
-Master of Science (Statistics) ***Currently completing  
+Master of Science (Statistics) | The University of Queensland (_Currently completing_)  
+Bachelor of Mathematics (Statistics) | The University of Queensland (_December 2023_)
+
   
 ### Work Experience  
-  
+**Research Assistant/Data Analyst @ University of Queensland, School of Public Health (_April 2023 - Present_)**
+- Co-designed and created interactive dashboards for infectious disease surveillance in Power BI
+- Data modelling and visualisation
+- Presentation of the dashboard to leadership and stakeholders
+
+**Student Partner @ University of Queensland (_March 2024 - June 2024_)**
+- Contributed to the creation of a new website of statistical resources to support HDR
+students
+- Assessed needs and developed statistical resources in R aimed at HDR students
+- Contributed to the establishment of a new statistical community for UQ
+
+**Data Intern @ QLD Health, Supply Chain Surety Division (_December 2022 - January 2023_)**
+- Created statistical scripts in R used for forecasting KPIs and integrated into Power BI dashboard
+- Co-created rationale for statistical methods used for forecasting
+- Presented project to senior leadership and stakeholders
+
+
+
 ### Projects  
