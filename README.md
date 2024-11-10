@@ -28,7 +28,7 @@ students
 
 ### Projects  
 #### R  
-
+[Influences on the Survival of Juvenile Smolt using Logistic Regression](/assets/logistic_regression.pdf)
 
 #### Python  
 
