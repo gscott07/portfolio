@@ -27,13 +27,9 @@ students
 
 
 ### Projects  
-#### Multiple Regression  
+#### R  
 
 
-#### Generalised Linear Models  
+#### Python  
 
-
-#### Generelised Linear Mixed Effect Models  
-
-
-#### Bayesian Analysis  
+  
