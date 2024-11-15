@@ -28,9 +28,9 @@ students
 
 ### Projects (Under construction)
 #### R  
-[Influences on the Survival of Juvenile Smolt using Logistic Regression](/assets/logistic_regression.pdf)
-[Analysing Pollination Syndromes Among Pea Species in Western Australia (Mixed effects model)](/assets/Assignment_3.pdf)
-[A Bayesian Analysis of Factors Influencing Number of Satellite Males in Horseshoe Crabs During Breeding Season (Bayesian Regression)](/assets/Assignment_4.pdf)
+[Influences on the Survival of Juvenile Smolt using Logistic Regression](/assets/logistic_regression.pdf)   
+[Analysing Pollination Syndromes Among Pea Species in Western Australia (Mixed effects model)](/assets/Assignment_3.pdf)   
+[A Bayesian Analysis of Factors Influencing Number of Satellite Males in Horseshoe Crabs During Breeding Season (Bayesian Regression)](/assets/Assignment_4.pdf)   
 
 #### Python  
 
